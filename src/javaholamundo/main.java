@@ -9,6 +9,7 @@ public class main {
 		System.out.println("hola mundo4");
 		System.out.println("hola mundo5");
 		System.out.println("hola mundo6");
+		System.out.println("hola mundo7");
 	}
 
 }
